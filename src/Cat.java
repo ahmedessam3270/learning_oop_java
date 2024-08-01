@@ -13,4 +13,10 @@ public class Cat extends Mammal implements Pet, Animal {
     public void sneakingAround() {
 
     }
+
+    @Override
+    public void see(){
+
+    }
+
 }
